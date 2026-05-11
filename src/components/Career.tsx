@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>B.Tech in Computer Science and Engineering</h4>
                 <h5>KL University</h5>
               </div>
-              <h3>2024</h3>
+              <h3>2026</h3>
             </div>
             <p>
               CGPA: 8.64
@@ -30,7 +30,7 @@ const Career = () => {
                 <h4>Secondary Education</h4>
                 <h5>Sri Chaitanya Junior College</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2022</h3>
             </div>
             <p>
               Mathematics, Physics, Chemistry. Percentage: 60.6%
@@ -42,7 +42,7 @@ const Career = () => {
                 <h4>Grade 10</h4>
                 <h5>Saint Alphonsa School</h5>
               </div>
-              <h3>2018</h3>
+              <h3>2020</h3>
             </div>
             <p>
               Percentage: 90.8%
@@ -57,9 +57,9 @@ const Career = () => {
               <h3>2024</h3>
             </div>
             <p>
-              • <a href="https://www.credly.com/badges/a9f674ad-be46-4279-ac3f-722bcdb79704/public_url" target="_blank" rel="noopener noreferrer" style={{textDecoration: "underline"}}>AWS Certified Cloud Practitioner (CLF-C02)</a><br/>
-              • <a href="https://drive.google.com/file/d/1Zw0iRIVnXBSkOXOL0QEYEhu0G11vRlLY/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{textDecoration: "underline"}}>Salesforce Certified AI Associate</a><br/>
-              • <a href="https://drive.google.com/file/d/1D6ZjMe1kO3ahF-qlWwDPOxyrlufnQBOC/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{textDecoration: "underline"}}>Oracle Certified Foundations Associate</a>
+              • <a href="https://www.credly.com/badges/a9f674ad-be46-4279-ac3f-722bcdb79704/public_url" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>AWS Certified Cloud Practitioner (CLF-C02)</a><br />
+              • <a href="https://drive.google.com/file/d/1Zw0iRIVnXBSkOXOL0QEYEhu0G11vRlLY/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Salesforce Certified AI Associate</a><br />
+              • <a href="https://drive.google.com/file/d/1D6ZjMe1kO3ahF-qlWwDPOxyrlufnQBOC/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>Oracle Certified Foundations Associate</a>
             </p>
           </div>
         </div>
